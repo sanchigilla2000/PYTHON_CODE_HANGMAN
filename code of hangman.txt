@@ -96,4 +96,3 @@ print("-------------------")
 print("try to guess the word in less than 10 attempts")
 hangman()
 print()
-a
